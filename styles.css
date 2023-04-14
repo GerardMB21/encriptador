@@ -243,4 +243,8 @@ main {
     height: 300px;
     contain: content;
   }
+
+  .footer {
+    width: 700px;
+  }
 }
